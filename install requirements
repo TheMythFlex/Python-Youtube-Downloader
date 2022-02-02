@@ -1,6 +1,7 @@
 install these libraries through pip 
 
 pip install youtube-search-python
+pip install PyQt5
 pip install pytube
 pip install colorama
 pip install termcolor
