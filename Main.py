@@ -26,7 +26,7 @@ def logo():
     print(colored('██║     ███████╗███████╗██ ╔╝██╗       ██║   ╚██████╔╝╚██████╔╝███████╗███████║', 'red'))
     print(colored('╚═╝     ╚══════╝╚══════╝╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝', 'red'))
 
-ctypes.windll.kernel32.SetConsoleTitleW("YouTube Downloader - Made by Flex#8888")
+ctypes.windll.kernel32.SetConsoleTitleW("YouTube Downloader - Made by Flex#8629")
 time.sleep(0.5)
 print("\n")
 
