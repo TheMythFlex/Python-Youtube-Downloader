@@ -7,6 +7,8 @@ that was a year and a half ago time really passes by quick i dont want to brag
 but there is it alot of good open source Youtube downloaders out there so thats
 where i got the idea to make one myself.
 
+---
+
 <h4>📕 Features</h4>
 
 <!-- BLOG-POST-LIST:START -->
@@ -15,6 +17,7 @@ where i got the idea to make one myself.
 -  Supports Playlist Download
 - Youtube search Feature (results list first page of Youtube)
 <!-- BLOG-POST-LIST:END -->
+---
 
 
 
