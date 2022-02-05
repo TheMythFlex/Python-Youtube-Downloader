@@ -11,9 +11,9 @@ where i got the idea to make one myself.
 
 <!-- BLOG-POST-LIST:START -->
 - Fast asf Download (depends on your'e internet but still faster than any Youtube Downloader website out there)
-- Download in both Mp3 - Mp4 
+- Downloads in both Mp3 - Mp4 
 -  Supports Playlist Download
-- Youtube search Feature (result list first page of Youtube)
+- Youtube search Feature (results list first page of Youtube)
 <!-- BLOG-POST-LIST:END -->
 
 
