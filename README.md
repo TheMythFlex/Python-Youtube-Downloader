@@ -10,13 +10,10 @@ where i got the idea to make one myself.
 <h4>📕 Features</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- youtube
-- [Green Flags For Men Interested In A Keeper](https://stephenajulu.com/blog/female-green-flags-for-men-interested-in-a-keeper/)
-- [How To Add Google Analytics to Your Website and Measure Traffic](https://stephenajulu.com/blog/how-to-add-google-analytics-to-your-website-and-measure-traffic/)
-- [Cryptocurrencies I&#39;m Buying in 2022](https://stephenajulu.com/blog/cryptocurrencies-i-m-buying-2022/)
-- [20 Things Men Must Do In 2022](https://stephenajulu.com/blog/20-things-men-must-do-in-2022/)
-- [How To Buy Your First NFT Web 3.0 Domain: Ethereum Naming Service](https://stephenajulu.com/blog/the-second-way-to-buy-your-first-nft-web-3.0-domain-ethereum-naming-service/)
-- [How To Buy Your First NFT Web 3.0 Domain: Unstoppable Domains](https://stephenajulu.com/blog/how-to-buy-your-first-nft-web-3.0-domain/)
+- Fast asf Download (depends on your'e internet but still faster than any Youtube Downloader website out there)
+- Download in both Mp3 - Mp4 
+-  Supports Playlist Download
+- Youtube search Feature (result list first page of Youtube)
 <!-- BLOG-POST-LIST:END -->
 
 
