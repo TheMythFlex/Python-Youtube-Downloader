@@ -30,7 +30,7 @@ feel free to fork change credits etc...
 Discord: Flex#8629 </h3>
 
 
-![alt text](https://cdn.discordapp.com/attachments/937168050564771870/938548662345277500/1.png)
+![alt text](https://cdn.discordapp.com/attachments/970690769583214612/985957547733315684/unknown.png?size=4096)
 
 
 
